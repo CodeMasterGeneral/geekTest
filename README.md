@@ -12,4 +12,4 @@ steps
 5. git add .  , ( . )<--dot to add all files
 6. git commit, to upload files on git
 7. git push , to publish your code
-8. visit git hub and see your code.
+8. visit github and see your code.
