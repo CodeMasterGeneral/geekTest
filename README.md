@@ -7,7 +7,7 @@ To push repo on github use gitbash or command line
 steps
 1. create repo on github website
 2. Steps from 3-7 will be on your system.
-3. create new folder and open gitbash or command line in inside.
+3. create new folder and open gitbash or command line inside.
 4. git init ---------------- initialization command
 5. git clone repo_url, clone repo on your prefered directory
 6. git status--------------- check status   
